@@ -1,0 +1,2 @@
+# practice_for_googleclab
+googlecolabの練習
